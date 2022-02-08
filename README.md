@@ -3,7 +3,7 @@ NCVC add-in
 Moving optimization of hole machining using solving TSP.
 
 ## Requirement
-* NCVC SDK
+* NCVC.SDK <https://github.com/NCVC-CAM/NCVC.SDK>
 
 ## Usage
 Visual Studio 2022 Solution
