@@ -6,7 +6,7 @@ Moving optimization of hole machining using solving TSP.
 * NCVC.SDK <https://github.com/NCVC-CAM/NCVC.SDK>
 
 ## Usage
-Visual Studio 2022 Solution
+Visual Studio 2026 Solution
 
 ## Author
 Yoshiro NOSE / NIT, Maizuru College (KOSEN)
